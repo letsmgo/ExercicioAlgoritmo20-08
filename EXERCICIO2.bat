@@ -31,3 +31,7 @@ md "TOCATINS"
 cd..
 md "SUL"
 cd "SUL"
+md "RIO GRANDE DO SUL"
+md "SANTA CATARINA"
+md "PARANA"
+cd..
