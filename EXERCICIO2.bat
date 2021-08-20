@@ -29,3 +29,5 @@ md "RONDONIA"
 md "RORAIMA"
 md "TOCATINS"
 cd..
+md "SUL"
+cd "SUL"
