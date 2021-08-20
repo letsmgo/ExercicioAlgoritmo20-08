@@ -21,3 +21,11 @@ md "SERGIPE"
 cd..
 md "NORTE"
 cd "NORTE"
+md "ACRE"
+md "AMAPA"
+md "AMAZONAS"
+md "PARA"
+md "RONDONIA"
+md "RORAIMA"
+md "TOCATINS"
+cd..
