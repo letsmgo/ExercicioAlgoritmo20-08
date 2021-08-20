@@ -9,5 +9,13 @@ md "MATO GROSSO DO SUL"
 cd..
 md "NORDESTE"
 cd "NORDESTE"
-
-
+md "ALAGOAS"
+md "BAHIA"
+md "CEARA"
+md "MARANHAO"
+md "PARAIBA"
+md "PERNAMBUCO"
+md "PIAUI"
+md "RIO GRANDE DO NORTE"
+md "SERGIPE"
+cd..
