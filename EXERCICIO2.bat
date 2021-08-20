@@ -37,3 +37,8 @@ md "PARANA"
 cd..
 md "SUDESTE"
 cd "SUDESTE"
+md "SAO PAULO"
+md "MINAS GERAIS"
+md "RIO DE JANEIRO"
+md "ESPIRITO SANTO"
+cd..
