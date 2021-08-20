@@ -1,1 +1,3 @@
 md "TODOS OS CLUBES"
+cd "TODOS OS CLUBES"
+md "SERIE A"
