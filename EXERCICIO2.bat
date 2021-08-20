@@ -35,3 +35,5 @@ md "RIO GRANDE DO SUL"
 md "SANTA CATARINA"
 md "PARANA"
 cd..
+md "SUDESTE"
+cd "SUDESTE"
