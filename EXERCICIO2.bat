@@ -19,3 +19,5 @@ md "PIAUI"
 md "RIO GRANDE DO NORTE"
 md "SERGIPE"
 cd..
+md "NORTE"
+cd "NORTE"
