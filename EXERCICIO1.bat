@@ -22,3 +22,5 @@ md "SPORT RECIFE"
 md "AMERICA-GO"
 md "GREMIO"
 md "CHAPECOENSE"
+cd..
+md "SERIE B"
